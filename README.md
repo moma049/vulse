@@ -1,5 +1,5 @@
 This is a full-stack to-do list application built using Next.js for the frontend, Express.js for the backend, and Prisma for database interactions with SQLite.
-To run the Project Clone the Repository, Then follow the following steps:
+To run the Project: Clone the Repository, then follow the following steps:
 1. Navigate to the backend directory using 'cd backend'
 2. install the backend dependencies using 'npm install'
 3. migrate the prisma schema to your database using :
